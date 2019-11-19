@@ -20,3 +20,18 @@
 .App-link {
   color: #09d3ac;
 }
+
+#grid td{
+  width: 25px;
+  height: 25px;
+  border: 1px solid lightgrey;
+}
+
+#grid {
+  margin-top: 40px;
+  display: block ruby;
+}
+
+.navbar {
+  margin-bottom: 15px;
+}
